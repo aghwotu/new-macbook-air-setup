@@ -5,6 +5,7 @@ Documenting the resources I use to setup my MacBook M1 Air for development. The 
 - [Node.js](https://nodejs.org/) and [NVM](https://github.com/nvm-sh/nvm). NVM is a package manager to manage different Nodejs versions
 - [iTerm](https://iterm2.com/downloads.html): macOS terminal replacement
 - [Oh My Zsh](https://ohmyz.sh/): terminal shell
+- [Angular CLI](https://angular.io/cli#installing-angular-cli)
 
 
 ## Installing Homebrew
